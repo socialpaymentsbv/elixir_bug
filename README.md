@@ -31,3 +31,4 @@ Last line indicates that at this particular moment Regex.split did not split the
 ## Elixir versions
 
 I specified Elixir 1.10.4 and Erlang OTP 23. But it works the same on Elirix 1.11.4
+Looks like it disappears in version 1.12.0
